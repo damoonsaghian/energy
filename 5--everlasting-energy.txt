@@ -1,0 +1,107 @@
+everlasting intelligence needs everlasting energy
+indeed there is only one source of energy which is inexhaustible, the nucleus of abundant elements
+
+# sun
+we live because of the sun, and because we are far enough from it, but this also means that the energy is dispersed on earth and to harness it we need a lot of space
+concentrated solar power is a good method to do it
+img("solar tower.png")
+though instead of heating water in tubes by sunlight we can use the equivalent natural systems
+1, water cycle which its use is almost saturated
+2, high altitude wind, like Magenn air rotor system
+
+# energy storage
+we can store energy in the electron arrangement of special materials
+they are called batteries or fuels, if the released energy is electricity or heat, respectively
+flow battery, regenerative fuel cell
+supercapacitor
+fossil fuels are how nature does this they have very good energy densities but burning them pollutes air, and their natural resources will eventually expire
+biofuel is a ridiculous, and at the same time a sad lie, it leads to more hunger, and it is the most inefficient way to harness the energy of the sun
+
+# nuclear energy
+imitating what happens in the sun, i_e ramming two mutually repelling nuclei together, a process called fusion, is extremely hard to confine in systems smaller than stars
+currently the most common way to harness nuclear energy is by splitting a heavy nucleus apart, a process called fission, which in addition to not being an abundant energy source, is in general a very dirty process, producing a lot of highly radioactive wastes, though maybe new generation reactors can solve these problems partially at least
+it would be great if we could harness nuclear energy directly and safely, because energy is the second major problem of humankind (the first is our ego)
+
+# Widom_Larsen theory
+it seems that clean and abundant nuclear energy might be possible, according to Widom_Larsen theory
+we know that offering low momentum neutrons to nuclei of atoms initiates nuclear reactions which release energy, generally neutron capture and beta decay processes
+but how can we generate these neutrons without expending more energy than the process yields
+it seems that there is a way thanks to a theory by Allan Widom and Lewis Larsen
+
+we start by processing a metal such that it can hold hydrogen the way a sponge holds water
+then electrons in the metal are made to oscillate together in such a way that the electromagnetic energy stored in tens of thousands of them is transferred to a relative few, giving them enough energy to merge with nearby protons (or deuterons, if present) and produce low momentum neutrons
+there is an energy cost of 0.78e6 e_v to create a neutron from a proton, lack of this energy is why there is no neutron production in usual condensed matter systems, but once the threshold is reached, calculations show that there is a robust production rate for low momentum neutrons
+the hitch is creating the right oscillation, it seems that the required frequencies are in a valley of inaccessibility about 5e12 to 30e12 hertz
+under exactly the right conditions ie
+  , contiguous many_body monolayer patch of entangled collectively oscillating protons on a surface
+  , entangled collectively oscillating surface plasmon electrons
+  , local breakdown of Born_Oppenheimer approximation
+  , non_equilibrium energy input
+  , and when local nanoscale electric fields in a patch exceed 2e11 volt/meter
+  then some number of the surface plasmon electrons located in such a patch will have high enough renormalized masses to react directly with nearby protons producing neutrons
+
+collectively produced neutrons will have extremely large quantum wavelengths (depending on dimensions of a given patch, from around 2 nano_meters to perhaps 100 microns) and will be captured locally within picoseconds, they generally do not have enough time to thermalize which requires a few tenths of a milli_second
+prompt and delayed gammas between 0.5 to 1 mega electron_volt up through 10 to 11 mega electon_volt resulting from captures or subsequent decay processes, are locally converted directly into infrared photons, by the population of unreacted, entangled heavy electrons present in a patch
+
+producing neutrons via Widom_Larsen electroweak reactions requires a threshold minimum local electric field of at least 2e11 volt/meter, this is a typical nuclear_strength e_field seen by inner electrons in un_ionized atomic nuclei, for example the electric field strength at a Bohr radius, about 0.5 angstrom away from an isolated proton is roughly 5e11 volt/meter
+when Born_Oppenheimer approximation breaks down on various types of surfaces, local electromagnetic coupling between films of collectively oscillating surface plasmon electrons (eg on metals) or p_electrons (e_g on aromatic rings, graphene, etc) and nearby collectively oscillating surface patches of protons or deuterons, can theoretically create an estimated electric field in the immediate vicinity of the patch on the order of 28.8e11 v/m, this value is well above bare minimum electric field threshold for Widom_Larsen neutron production via e*+p or e*+d electroweak reactions
+some have expressed concerns that this theoretical electric field strength estimate may be unphysical in it being hard to exceed 2e11 v/m in the real world, such fears are groundless, local electrical fields > 1e11 v/m are readily created on tiny subNano to micro_meter scales
+Born_Oppenheimer is well known to break down on metal surfaces, however the magnitude of Born_Oppenheimer breakdown may vary widely from one chemical system to another
+many_body collective oscillations and mutual quantum entanglement of protons and electrons (eg s_p electrons on metallic hydride surfaces) in conjunction with a breakdown of the Born_Oppenheimer approximation, appear to be relatively common in nature, occurring in many different types of physical systems, see these papers for example
+, CA Chatzidimitriou Dreismann "attosecond quantum entanglement in neutron compton scattering from water in the kev range"
+, JD Jost "entangled mechanical oscillators"
+while these many_body collective processes operate very rapidly, and nanoscale coherence can only persist for time spans of 1e-15 to 1e-18 sec, nuclear processes such as weak interaction u_l_m neutron production and neutron capture operate on even faster time scales, about 1e-19 to 1e-22 second
+it is well known that metallic surface nanostructures and s_p electrons can have configurations that are able to effectively absorb electromagnetic energy over a wide area, transfer and concentrate it, and in conjunction with contiguous surface patches of collectively oscillating protons create nuclear_strength local electric fields, u_l_m neutron production can then follow
+, collective oscillations and quantum entanglement of many_body patches of protons located on metallic surfaces or with hydrogenous atoms bonded to carbon atoms, in certain structural configurations (aromatic rings, fullerenes, graphene)
+, creation of nuclear_strength electric fields on small length scales caused by local breakdown of Born_Oppenheimer approximation
+, mass renormalization (e_s_p + many_body collective field energy e*) of entangled surface plasmon electrons, or equivalently, delocalized p_electrons present in certain carbon_based molecular structures, in extremely high local electric fields found in patches, once certain field_strength thresholds are surpassed, production of mostly ultra low momentum neutrons via e*+p weak reactions, can occur (also emitting electron neutrinos)
+almost all u_l_m neutrons are captured locally, creating complex, dynamic neutron_catalyzed l_e_n_r nucleosynthetic networks that can produce many products, and release energy
+it is well known that metallic surface nanostructures and s_p_p electrons can have configurations that are able to effectively absorb electromagnetic energy over a wide area, transfer and concentrate it, and in conjunction with contiguous surface patches of collectively oscillating protons, create extremely high local electric fields
+  see "entangled mechanical oscillators, nature 459 2009" by JD Jost et_al, in which mechanical vibration of two ion pairs separated by a few hundred micrometres, is entangled in a quantum way
+1, many_body patches of collectively oscillating protons (or deuterons) formed on metallic hydride surfaces loaded with hydrogen isotopes
+2, the Born_Oppenheimer approximation breaks down in the local region above the patches, collective oscillations of the protons start to couple loosely to the collective oscillations of nearby surface plasmon polariton (s_p_p) electrons, commonly found on surfaces of metals
+3, coupling between s_p_p electrons and the patches of protons increases the local electric field to values more than 10e11 volt/meter, roughly the same magnitude as electric fields seen by inner electrons in atomic nuclei
+4, intense local radiation field raises effective mass of s_p_p electrons so that they can react spontaneously with nearby protons or deuterons to create neutrons
+5, neutrons created collectively have huge quantum mechanical wavelengths (microns) and are almost always absorbed locally by nearby nuclei
+6, heavy_mass s_p_p electrons in condensed matter systems have the unique ability to directly absorb a gamma photon and reRadiate it as a collection of much lower_energy infrared and soft x_ray photons, as a result, l_e_n_r systems have built_in gamma shields that preclude external emission of hard radiation in the form of mega eV gamma rays
+in a nutshell, the plasmon modes in hydrated metals (think of them as surface electrons that all act together) get energized (many ways to do this) and get absorbed by protons, this produces very low energy neutrons which get absorbed quite easily by anything
+this starts a cascade of creating unstable isotopes which beta decay, during the beta decay, gamma ray photons are released, but when they hit that metal plasmon they get shifted into mostly infrared with a soft x_ray tail
+the challenge is that this phenomena requires very high energy densities, order of 1e11 volt/meter, so it more often will happen in small nano_crevices in materials
+1, in condensed matter, local breakdown of the Born_Oppenheimer approximation occurs in homogeneous, many_body, collectively oscillating patches of protons found on surfaces of fully loaded metallic hydrides, Born_Oppenheimer breakdown enables a degree of electromagnetic coupling of surface proton oscillations with those of nearby surface plasmon polariton (s_p_p) electrons
+2, such coupling between collective oscillations creates local nuclear_strength electric fields in the vicinity of the patches
+3, s_p_p electrons bathed in such high fields increase their effective mass, thus becoming heavy electrons
+4, heavy app electrons can react directly with protons located in surface patches, through an inverse beta decay process that results in simultaneous collective production of a neutron and a neutrino
+5, collectively produced neutrons are created ultra cold, that is they have ultra low momentum and extremely large quantum mechanical wavelengths, and absorption cross_sections compared to typical neutrons at thermal energies
+6, heavy s_p_p patch electrons are uniquely able to immediately convert almost any locally produced or incident gamma radiation, directly into infrared heat energy, thus providing a form of built_in gamma shielding for the nuclear reactions
+on the surface of a metallic hydride cell with surface plasmon polariton modes, protons collectively oscillate along with the electrons, hence the Born_Oppenheimer approximation which assumes that the proton is rigidly fixed, breaks down and should not be employed
+in other words, neutron production is the result of collective electromagnetic coupling caused by breakdown of the Born_Oppenheimer approximation that occurs between two types of intrinsically collective oscillations found on metallic hydride surfaces
+1, surface plasmon polariton (s_p_p) electrons (which determine colors of metals)
+2, contiguous, coherent surface patches of protons or deuterons that can form on hydrogen loaded hydrides
+such coupling helps to create very high local fields greater than 10e11 volt/meter that can renormalize masses of polariton electrons above threshold for ultra low momentum neutron production
+
+elements heavier than iron are thought to be created via nucleosynthesis reactions (neutron capture and subsequent beta decays of unstable neutron_rich isotopes) in stars
+two types of such neutron capture processes thought to occur in hot stellar plasmas
+, s_process (slow) occurs in stars (eg red giants) with neutron flux 10e5 to 10e11 cm^2/sec
+, r_process (rapid) occurs in supernova explosions with neutron flux greater than 10e22 cm^2/sec
+according to Widom_Larsen similar processes occurs in condensed matter l_e_n_r systems where neutron flux can be 1e9 to 1e16 cm^2/sec
+the difference is that neutrons in l_e_n_r systems can be ultra low momentum and thus have vastly larger absorption cross_sections
+since 1989, certain researchers in l_e_n_r have documented genuine anomalies that occur in various types of heavy and light hydrogen experimental systems, all involving heavily loaded metallic hydrides
+1, production of a broad array of different stable isotopic transmutation products
+2, different types of nuclear effects triggered by electrical current, laser, r_f, and pressure
+3, calorimetrically measured excess heat effects in wide range of values from just milliWatts to tens of watts in some cases
+4, production of helium isotopes, rarely detect tritium
+5, production of modest fluxes of mega eV alpha particles and protons, as well as some minuscule fluxes of low energy x and gamma ray photons (no fluxes of hard mega e_v gammas)
+the best experimental evidence for Widom_Larsen theory is this
+  simple two_parameter optical model of u_l_m neutron absorption based on Widom_Larsen theory of l_e_n_r predicts 5 peaks for product isotopic abundance, which matches very well with experimental results
+mass spectroscopy probably the best analytical technique for diagnosing presence of l_e_n_r by the early to mid 1990s maverick l_e_n_r researchers, located at a smattering of major universities and national laboratories in Japan, Russia, Italy, and the United States, were already doing competent before_and_after analyses of experimental l_e_n_r devices, using various types of mass spectroscopy and (mainly at conferences) reporting the appearance of many new elements not initially present at the beginning of experiments, and/or substantial isotopic shifts in stable isotopes of elements initially present that could not reasonably be explained by contamination, and_or the action of prosaic chemical isotopic fractionation processes
+some apostate l_e_n_r researchers using s_i_m_s to assay isotopes post_experiment, were even able to spatially correlate elemental or isotopic anomalies, with distinctive morphological features observed on post_experiment metallic device surfaces
+unusual structures found at such locations often consisted of micron_scale craters and other odd morphologies indicative of locally explosive flash melting or boiling events
+  see George Miley "distinctive 5 peak ni/h2_O transmutation product mass_spectrum" published in 1996 (mostly s_i_m_s and neutron activation analyses data)
+why is the sun_s corona so much hotter than the sun_s surface, this coronal heating problem is still an unresolved problem of physics, can it be because of low energy nuclear reactions discussed above
+this theory may be able to explain the strange nuclear reactions observed in exploding wires, lightnings, strong flux of low_energy neutrons produced by thunderstorms (http://prl.aps.org/abstract/PRL/v108/i12/e125001) and fracturing piezoelectric rocks
+see these papers
+  A Widom, L Larsen "ultra low momentum neutron catalyzed nuclear reactions on metallic hydride surfaces" http://arxiv.org/pdf/cond-mat/0505026v1.pdf
+  A Widom, L Larsen "theoretical standard model rates of proton to neutron conversions near metallic hydride surfaces" http://arxiv.org/pdf/nucl-th/0608059v2.pdf
+  A Widom, L Larsen "a primer for electroweak induced low energy nuclear reactions"http://arxiv.org/pdf/0810.0159v1.pdf
+Widom_Larsen l_e_n_r theory
+  http://newenergytimes.com/v2/sr/WL/WLTheory.shtml
