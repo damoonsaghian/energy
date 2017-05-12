@@ -1,6 +1,6 @@
 society is made of groups with different specialities, each group can elect their leaders
 election can in fact be a simple, cheap, dynamic, and completely reliable process
-the only thing we need to competely trust the result of an election, is to release the final result in a table, every one can see if his vote is entered correctly or not (votes are submited based on real names or a number that only its owner knows of its correspondence with his name)
+the only thing we need to competely trust the result of an election, is to release the final result in a table, every one can see if his vote is entered correctly or not (votes are submited based on anonymous codes which only its owner knows of its correspondence with his name)
 since the total number of voters is known, the result is completely reliable, there is no place for cheating in this method
 this method is so simple and cheap that can be easily done in short periods (every month or every 3 months), so leaders can be tested and changed easily to reach the best choice very soon
 now compare this simple methods with what is called democracy nowadays, actually this is a good example that clearly shows us how the ones in power play with people and treat them like fools
