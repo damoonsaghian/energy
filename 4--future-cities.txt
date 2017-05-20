@@ -2,8 +2,8 @@ society is made of groups with different specialities, each group can elect thei
 election can in fact be a simple, cheap, dynamic, and completely reliable process
 the only thing we need to competely trust the result of an election, is to release the final result in a table, every one can see if his vote is entered correctly or not (votes are submited based on anonymous codes which only its owner knows of its correspondence with his name)
 since the total number of voters is known, the result is completely reliable, there is no place for cheating in this method
-this method is so simple and cheap that can be easily done in short periods (every month or every 3 months), so leaders can be tested and changed easily to reach the best choice very soon
-now compare this simple methods with what is called democracy nowadays, actually this is a good example that clearly shows us how the ones in power play with people and treat them like fools
+this method is so simple and cheap that can be easily done in short periods (every month or every 3 months), actually people can vote any time they want, and the result table will be updated continuously, but the election will be made in discrete priods
+now compare this simple method with what is called democracy nowadays, actually this is a clear example that shows us how the ones in power play with people and treat them like fools
 
 autonomous car
 platoon automobile
@@ -12,7 +12,7 @@ to spread beyond earth we need a gigantic craft powered by nuclear energy equipp
 also there must be machines for mining elements from planets, including enough propeller matter to leave planets and navigate through space
 also the craft can use the relative movement and gravity of planets to accelerate and decelerate (gravitational slingshot, gravity assist)
 
-img("spacecraft.png")
+Img("spacecraft.png")
 each segment is equipped with its own thruster, during taking off most of its volume is used for propeller matter
 in the space this segments connect together as depicted below and by rotational motion they provide artificial gravity
 each segment must have a mass equal to the segment at the opposite side, for example by using fluids to compensate small mass inequalities, so we have two separated regions unless of course they form a complete cylinder
