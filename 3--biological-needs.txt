@@ -1,13 +1,13 @@
 at least for centuries the existence of intelligence on earth will be dependent on the survival of humans
 basic biological needs are
-, air iE oxygen plus nitrogen andOr helium to adjust its density, with suitable temperature and pressure
-, water ie h2O plus some minerals to adjust the pH
+, air i_e oxygen plus nitrogen and_or helium to adjust its density, with suitable temperature and pressure
+, water ie h2_o plus some minerals to adjust the p_h
 , nutrients
-  1, amino acids, lLysine hCl (3.58 g), sodium lAspartate (6.40 g), lLeucine (3.83 g), lThreonine (2.42 g), lIsoleucine (2.42 g), lProline (10.33 g), lValine (2.67 g), glycine (1.67 g), lPhenylalanine (1.75 g), lSerine (5.33 g), lArginine hCl (2.58 g), lTyrosine ethyl ester hCl (6.83 g), lHistidine hCl h2O (1.58 g), lTryptophan (0.75 g), lMethionine (1.75 g), lGlutamine (9.07 g), lAalanine (2.58 g), lCysteine ethyl ester hCl (0.92 g)
-  2, water soluble vitamins, thiamine hCl (1.00 mG), dBiotin (0.83 mG), riboflavin (1.50 mG), folic acid (1.67 mG), pyridoxine hCl (1.67 mG), ascorbic acid (62.50 mG), niacinamide (10.00 mG), cyanocobalamin (1.67 mG), inositol (0.83 mG), pAminobenzoic acid (416.56 mG), dCalcium pantothenate (8.33 mG), choline bitartrate (231.25 mG)
-  3, salts, potassium iodide (0.25 mG), potassium hydroxide (0.83 g), manganous acetate (18.30 mG), magnesium oxide (0.38 g), zinc benzoate (2.82 mG), sodium chloride (4.77 g), cupric acetate (2.50 mG), ferrous gluconate (0.83 g), sodium glycerophosphate (1.67 mG), calcium chloride 2h2O (2.44 g), ammonium molybdate 4h2O (5.23 g), sodium benzoate (1.00 g)
+  1, amino acids, l_lysine h_cl (3.58 g), sodium l_aspartate (6.40 g), l_leucine (3.83 g), l_threonine (2.42 g), l_isoleucine (2.42 g), l_proline (10.33 g), l_valine (2.67 g), glycine (1.67 g), l_phenylalanine (1.75 g), l_serine (5.33 g), l_arginine h_cl (2.58 g), l_tyrosine ethyl ester h_cl (6.83 g), l_histidine h_cl h2_o (1.58 g), l_tryptophan (0.75 g), l_methionine (1.75 g), l_glutamine (9.07 g), l_alanine (2.58 g), l_cysteine ethyl ester h_cl (0.92 g)
+  2, water soluble vitamins, thiamine h_cl (1.00 m_g), d_biotin (0.83 m_g), riboflavin (1.50 m_g), folic acid (1.67 m_g), pyridoxine h_cl (1.67 m_g), ascorbic acid (62.50 m_g), niacinamide (10.00 m_g), cyanocobalamin (1.67 m_g), inositol (0.83 m_g), p_aminobenzoic acid (416.56 m_g), d_calcium pantothenate (8.33 m_g), choline bitartrate (231.25 m_g)
+  3, salts, potassium iodide (0.25 m_g), potassium hydroxide (0.83 g), manganous acetate (18.30 m_g), magnesium oxide (0.38 g), zinc benzoate (2.82 m_g), sodium chloride (4.77 g), cupric acetate (2.50 m_g), ferrous gluconate (0.83 g), sodium glycerophosphate (1.67 m_g), calcium chloride 2 h2_o (2.44 g), ammonium molybdate 4 h2_o (5.23 g), sodium benzoate (1.00 g)
   4, carbohydrates, glucose (555.0 g), glucono dLactone (17.2 g)
-  5, fats and fat soluble vitamins, ethyl linoleate (2.0 g) aTocopherol acetate (57.29 mG), vitaminA (3.64 mG) menadione (4.58 mG) vitaminD (0.057 mG)
+  5, fats and fat soluble vitamins, ethyl linoleate (2.0 g) a_tocopherol acetate (57.29 m_g), vitamin_a (3.64 m_g) menadione (4.58 m_g) vitamin_d (0.057 m_g)
   6, other things like fiber which are not nutrient but are good for digestive system
 
 naturally the environment we evolved in, supplies our basic needs, but it is generally unstable, slow and insufficient, considering the current population and standards of life
