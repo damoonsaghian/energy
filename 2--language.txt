@@ -1,14 +1,13 @@
 constructed script, semantic primes, alphabet of human thought, philosophical language
-Toki Pona, Ro artificial language, Ithkuil, Aui constructed language
-[Ygyde language](http://www.ygyde.neostrada.pl/)
+'toki 'pona, 'ro artificial language, 'ithkuil, 'aui constructed language
+['ygyde language](http://www.ygyde.neostrada.pl/)
 
 writing exactly every sound we say, needs a lot of letters and makes the writing needlessly cumbersome, but the letters chosen below are enough to make a reasonable relationship between what you say and what you write
 this approach benefits those that are learning english, but for those that have learned it already, the challenge is to get used to the new shape of words, because in fact we read by seeing the shape of words, not by reading single letters
 f, v, s, z, x (pressure), xx (pleasure), tt (thought), dd (that), t, d, b, p, c (charge), j, k, g (get)
 n, m, l, r, h, y (yellow), w
 u (fun), a (bad), e, i, o, q (food)
-use capital letters in the begining of special words (words which are not generic)
-use underscore for connecting words
+apostrophe is used in the begining of special words (words which are not generic) and for connecting words
 in addition there are numbers and some special symbols
 tables, diagrams and drawings can be used to express some ideas in a concise and clear way
 
