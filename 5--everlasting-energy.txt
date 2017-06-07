@@ -4,7 +4,7 @@ indeed there is only one source of energy which is inexhaustible, the nucleus of
 # sun
 we live because of the sun, and because we are far enough from it, but this also means that the energy is dispersed on earth and to harness it we need a lot of space
 concentrated solar power is a good method to do it
-[solar tower](.data/solar tower.png)
+!".data/solar tower.png"
 though instead of heating water in tubes by sunlight we can use the equivalent natural systems
 1, water cycle which its use is almost saturated
 2, high altitude wind, like Magenn air rotor system
@@ -48,8 +48,8 @@ when 'born'oppenheimer approximation breaks down on various types of surfaces, l
 some have expressed concerns that this theoretical electric field strength estimate may be unphysical in it being hard to exceed 2e11 v/m in the real world, such fears are groundless, local electrical fields > 1e11 v/m are readily created on tiny subNano to microMeter scales
 'born'oppenheimer is well known to break down on metal surfaces, however the magnitude of 'born'oppenheimer breakdown may vary widely from one chemical system to another
 many'body collective oscillations and mutual quantum entanglement of protons and electrons (e'g s'p electrons on metallic hydride surfaces) in conjunction with a breakdown of the 'born'oppenheimer approximation, appear to be relatively common in nature, occurring in many different types of physical systems, see these papers for example
-, CA Chatzidimitriou Dreismann "attosecond quantum entanglement in neutron compton scattering from water in the kev range"
-, JD Jost "entangled mechanical oscillators"
+, 'c'a 'chatzidimitriou 'dreismann "attosecond quantum entanglement in neutron compton scattering from water in the kev range"
+, 'j'd 'jost "entangled mechanical oscillators"
 while these many'body collective processes operate very rapidly, and nanoscale coherence can only persist for time spans of 1e-15 to 1e-18 sec, nuclear processes such as weak interaction u'l'm neutron production and neutron capture operate on even faster time scales, about 1e-19 to 1e-22 second
 it is well known that metallic surface nanostructures and s'p electrons can have configurations that are able to effectively absorb electromagnetic energy over a wide area, transfer and concentrate it, and in conjunction with contiguous surface patches of collectively oscillating protons create nuclear'strength local electric fields, u'l'm neutron production can then follow
 , collective oscillations and quantum entanglement of many'body patches of protons located on metallic surfaces or with hydrogenous atoms bonded to carbon atoms, in certain structural configurations (aromatic rings, fullerenes, graphene)
@@ -63,9 +63,9 @@ it is well known that metallic surface nanostructures and s'p'p electrons can ha
 3, coupling between s'p'p electrons and the patches of protons increases the local electric field to values more than 10e11 volt/meter, roughly the same magnitude as electric fields seen by inner electrons in atomic nuclei
 4, intense local radiation field raises effective mass of s'p'p electrons so that they can react spontaneously with nearby protons or deuterons to create neutrons
 5, neutrons created collectively have huge quantum mechanical wavelengths (microns) and are almost always absorbed locally by nearby nuclei
-6, heavyMass s'p'p electrons in condensed matter systems have the unique ability to directly absorb a gamma photon and re'radiate it as a collection of much lower energy infrared and soft xRay photons, as a result, l'e'n'r systems have built'in gamma shields that preclude external emission of hard radiation in the form of mega e'v gamma rays
+6, heavyMass s'p'p electrons in condensed matter systems have the unique ability to directly absorb a gamma photon and re'radiate it as a collection of much lower energy infrared and soft x'ray photons, as a result, l'e'n'r systems have built'in gamma shields that preclude external emission of hard radiation in the form of mega e'v gamma rays
 in a nutshell, the plasmon modes in hydrated metals (think of them as surface electrons that all act together) get energized (many ways to do this) and get absorbed by protons, this produces very low energy neutrons which get absorbed quite easily by anything
-this starts a cascade of creating unstable isotopes which beta decay, during the beta decay, gamma ray photons are released, but when they hit that metal plasmon they get shifted into mostly infrared with a soft xRay tail
+this starts a cascade of creating unstable isotopes which beta decay, during the beta decay, gamma ray photons are released, but when they hit that metal plasmon they get shifted into mostly infrared with a soft x'ray tail
 the challenge is that this phenomena requires very high energy densities, order of 1e11 volt/meter, so it more often will happen in small nanoCrevices in materials
 1, in condensed matter, local breakdown of the 'born'oppenheimer approximation occurs in homogeneous, many'body, collectively oscillating patches of protons found on surfaces of fully loaded metallic hydrides, 'born'oppenheimer breakdown enables a degree of electromagnetic coupling of surface proton oscillations with those of nearby surface plasmon polariton (s'p'p) electrons
 2, such coupling between collective oscillations creates local nuclear'strength electric fields in the vicinity of the patches
@@ -92,15 +92,15 @@ since 1989, certain researchers in l'e'n'r have documented genuine anomalies tha
 4, production of helium isotopes, rarely detect tritium
 5, production of modest fluxes of mega e'v alpha particles and protons, as well as some minuscule fluxes of low energy x and gamma ray photons (no fluxes of hard mega e'v gammas)
 the best experimental evidence for 'widom'larsen theory is this
-  simple twoParameter optical model of u'l'm neutron absorption based on 'widom'larsen theory of l'e'n'r predicts 5 peaks for product isotopic abundance, which matches very well with experimental results
-mass spectroscopy probably the best analytical technique for diagnosing presence of l'e'n'r by the early to mid 1990s maverick l'e'n'r researchers, located at a smattering of major universities and national laboratories in 'japan, 'russia, 'italy, and the 'united 'states, were already doing competent before'and'after analyses of experimental l'e'n'r devices, using various types of mass spectroscopy and (mainly at conferences) reporting the appearance of many new elements not initially present at the beginning of experiments, and'or substantial isotopic shifts in stable isotopes of elements initially present that could not reasonably be explained by contamination, andOr the action of prosaic chemical isotopic fractionation processes
+  simple two'parameter optical model of u'l'm neutron absorption based on 'widom'larsen theory of l'e'n'r predicts 5 peaks for product isotopic abundance, which matches very well with experimental results
+mass spectroscopy probably the best analytical technique for diagnosing presence of l'e'n'r by the early to mid 1990s maverick l'e'n'r researchers, located at a smattering of major universities and national laboratories in 'japan, 'russia, 'italy, and the 'united 'states, were already doing competent before'and'after analyses of experimental l'e'n'r devices, using various types of mass spectroscopy and (mainly at conferences) reporting the appearance of many new elements not initially present at the beginning of experiments, and'or substantial isotopic shifts in stable isotopes of elements initially present that could not reasonably be explained by contamination, and'or the action of prosaic chemical isotopic fractionation processes
 some apostate l'e'n'r researchers using s'i'm's to assay isotopes post'experiment, were even able to spatially correlate elemental or isotopic anomalies, with distinctive morphological features observed on post'experiment metallic device surfaces
 unusual structures found at such locations often consisted of micron'scale craters and other odd morphologies indicative of locally explosive flash melting or boiling events
   see 'george 'miley "distinctive 5 peak ni/h2'o transmutation product mass spectrum" published in 1996 (mostly s'i'm's and neutron activation analyses data)
 why is the sun's corona so much hotter than the sun's surface, this coronal heating problem is still an unresolved problem of physics, can it be because of low energy nuclear reactions discussed above
-this theory may be able to explain the strange nuclear reactions observed in exploding wires, lightnings, [strong flux of low'energy neutrons produced by thunderstorms](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.108.125001) and fracturing piezoelectric rocks
-see these papers by A Widom and L Larsen
-  [ultra low momentum neutron catalyzed nuclear reactions on metallic hydride surfaces](http://arxiv.org/pdf/cond-mat/0505026v1.pdf)
-  [theoretical standard model rates of proton to neutron conversions near metallic hydride surfaces](http://arxiv.org/pdf/nucl-th/0608059v2.pdf)
-  [a primer for electroweak induced low energy nuclear reactions](http://arxiv.org/pdf/0810.0159v1.pdf)
-['widom'larsen l'e'n'r theory](http://newenergytimes.com/v2/sr/WL/WLTheory.shtml)
+this theory may be able to explain the strange nuclear reactions observed in exploding wires, lightnings, "strong flux of low'energy neutrons produced by thunderstorms", "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.108.125001" and fracturing piezoelectric rocks
+see these papers by 'a 'widom and 'l 'larsen
+  "ultra low momentum neutron catalyzed nuclear reactions on metallic hydride surfaces", "http://arxiv.org/pdf/cond-mat/0505026v1.pdf"
+  "theoretical standard model rates of proton to neutron conversions near metallic hydride surfaces", "http://arxiv.org/pdf/nucl-th/0608059v2.pdf"
+  "a primer for electroweak induced low energy nuclear reactions", "http://arxiv.org/pdf/0810.0159v1.pdf"
+"http://newenergytimes.com/v2/sr/WL/WLTheory.shtml"
