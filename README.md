@@ -1,0 +1,3 @@
+# everlasting-intelligence
+
+MIT license
