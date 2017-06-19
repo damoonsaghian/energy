@@ -12,7 +12,7 @@ to spread beyond earth we need a gigantic craft powered by nuclear energy equipp
 also there must be machines for mining elements from planets, including enough propeller matter to leave planets and navigate through space
 also the craft can use the relative movement and gravity of planets to accelerate and decelerate (gravitational slingshot, gravity assist)
 
-!".data/space craft.png"
+\image("space craft")
 each segment is equipped with its own thruster, during taking off most of its volume is used for propeller matter
 in the space this segments connect together as depicted below and by rotational motion they provide artificial gravity
 each segment must have a mass equal to the segment at the opposite side, for example by using fluids to compensate small mass inequalities, so we have two separated regions unless of course they form a complete cylinder
