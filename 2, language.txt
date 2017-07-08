@@ -1,16 +1,23 @@
-constructed script, semantic primes, alphabet of human thought, philosophical language
+semantic primes, alphabet of human thought, philosophical language
 Toki Pona, Ro artificial language, Ithkuil, Aui constructed language
 \link("Ygyde language", "http://www.ygyde.neostrada.pl/")
+https://en.wikipedia.org/wiki/Attempto_Controlled_English
+https://en.wikipedia.org/wiki/Lojban
+https://en.wikipedia.org/wiki/Agglutinative_language
+https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning
 
-writing exactly every sound we say, needs a lot of letters and makes the writing needlessly cumbersome, but the letters chosen below are enough to make a reasonable relationship between what you say and what you write
-this approach benefits those that are learning english, but for those that have learned it already, the challenge is to get used to the new shape of words, because in fact we read by seeing the shape of words, not by reading single letters
+= writing system
+https://en.wikipedia.org/wiki/Phonemic_orthography
+phones are the exact atomic sounds that we say, phonemes are a set of similar phones
+phonetic writing systems needs a lot of letters and makes the writing needlessly cumbersome, phonemic systems are enough to make a consistent correspondence between what we say, and what we write
+phonemic writing system for English, benefits those that are learning it, but for those that have learned it already, the challenge is to get used to the new shape of words, because in fact we read by seeing the shape of words, not by reading single letters
 f, v, s, z, x (pressure), xx (pleasure), tt (thought), dd (that), t, d, b, p, c (charge), j, k, g (get)
-n, m, l, r, h, y (yellow), w
+n, m, l, r, w, y (yellow), h
 u (fun), a (bad), e, i, o, q (food)
-use capital letters for special words (words which are not generic) 
-apostrophe is used for abbreviations and for connecting words
-in addition there are numbers and some special symbols
-tables, diagrams and drawings can be used to express some ideas in a concise and clear way
+, use capital letters for special words (words which are not generic) 
+, apostrophe is used for abbreviations and for connecting words
+, in addition there are numbers and some special symbols
+, tables, diagrams and drawings can be used to express some ideas in a concise and clear way
 
 try to read the following text
 kempiqterz kan help pipel tq izili akses and imprqv hiqmen nulej and az e rizult dq ttingz tq imprqv dde kquleti uv hiqmen luyf
