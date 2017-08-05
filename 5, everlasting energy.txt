@@ -1,67 +1,66 @@
-it seems that there is only one source of energy which is inexhaustible, the nucleus of abundant elements
+it seems that there is only one source of energy which is inexhaustible, the nucleus of abundant elements.
 
 = Sun
-we live because of the Sun, and because we are far enough from it, but this also means that the energy is dispersed on earth and to harness it we need a lot of space
-concentrated solar power is a good method to do it
+we live because of the Sun, and because we are far enough from it. but this also means that the energy is dispersed on earth and to harness it we need a lot of space.
+concentrated solar power is a good method to do it.
 \image("solar tower.png")
-though instead of heating water in tubes by sunlight we can use the equivalent natural systems
+though instead of heating water in tubes by sunlight we can use the equivalent natural systems:
 1, water cycle which its use is almost saturated
 2, high altitude wind, like Magenn air rotor system
 
 = energy storage
-we can store energy in the electron arrangement of special materials
-they are called batteries or fuels, if the released energy is electricity or heat, respectively
+we can store energy in the electron arrangement of special materials. they are called batteries or fuels, if the released energy is electricity or heat, respectively.
 flow battery, regenerative fuel cell
-supercapacitor
-fossil fuels are how nature does this they have very good energy densities but burning them pollutes air, and their natural resources will eventually expire
-biofuel is a ridiculous, and at the same time a sad lie, it leads to more hunger, and it is the most inefficient way to harness the energy of the sun
+super'capacitor
+fossil fuels are how nature does this. they have very good energy densities, but burning them pollutes air, and their natural resources will eventually expire.
+biofuel is a ridiculous, and at the same time a sad, lie. it leads to more hunger, and it is the most inefficient way to harness the energy of the sun.
 
 = nuclear energy
-imitating what happens in the sun, i'e ramming two mutually repelling nuclei together, a process called fusion, is extremely hard to confine in systems smaller than stars
-currently the most common way to harness nuclear energy is by splitting a heavy nucleus apart, a process called fission, which in addition to not being an abundant energy source, is in general a very dirty process, producing a lot of highly radioactive wastes, though maybe new generation reactors can solve these problems partially at least
-it would be great if we could harness nuclear energy directly and safely, because energy is the second major problem of humankind (the first is our ego)
+imitating what happens in the sun, i'e ramming two mutually repelling nuclei together (a process called fusion), is extremely hard to confine in systems smaller than stars.
+currently the most common way to harness nuclear energy is by splitting a heavy nucleus apart, a process called fission, which in addition to not being an abundant energy source, is in general a very dirty process, producing a lot of highly radioactive wastes. though maybe new generation reactors can solve these problems (partially at least).
+it would be great if we could harness nuclear energy directly and safely, because energy is the second major problem of humankind. (the first is our ego)
 
-= Widom'Larsen theory
-it seems that clean and abundant nuclear energy might be possible, according to Widom'Larsen theory
-we know that offering low momentum neutrons to nuclei of atoms initiates nuclear reactions which release energy, generally neutron capture and beta decay processes
-but how can we generate these neutrons without expending more energy than the process yields, it seems that there maybe a way, thanks to a theory by Allan Widom and Lewis Larsen
+= WidomLarsen theory
+it seems that clean and abundant nuclear energy might be possible, according to WidomLarsen theory.
+we know that offering low momentum neutrons to nuclei of atoms initiates nuclear reactions (generally neutron capture and beta decay) which release energy.
+but how can we generate these neutrons without expending more energy than the process yields. it seems that there maybe a way, thanks to a theory by Allan Widom and Lewis Larsen.
 
-producing neutrons requires a threshold minimum local electric field of at least 2e11 volt/meter, this is a typical nuclear'strength e'field seen by inner electrons in un'ionized atomic nuclei, for example the electric field strength at Bohr radius (about 0.5 angstrom away from an isolated proton) is roughly 5e11 volt/meter
-some have expressed concerns that this theoretical electric field strength estimate may be unphysical in it being hard to exceed 2e11 v/m in the real world, such fears are groundless, local electrical fields > 1e11 v/m are readily created on small nano'crevices in materials
+producing neutrons requires a threshold minimum local electric field of at least 2e11 volt/meter. this is a typical nuclear'strength e'field seen by inner electrons in un'ionized atomic nuclei. for example the electric field strength at Bohr radius (about 0.5 angstrom away from an isolated proton) is roughly 5e11 volt/meter.
+some have expressed concerns that this theoretical electric field strength estimate may be unphysical, in it being hard to exceed 2e11 v/m in the real world. such fears are groundless, local electrical fields > 1e11 v/m are readily created on small nano'crevices in materials.
 
-Born'Oppenheimer is well known to break down on metal surfaces, however the magnitude of Born'Oppenheimer breakdown may vary widely from one chemical system to another
-breakdown of Born'Oppenheimer approximation in the local region in the contiguous patches formed on fully loaded metalic hydride surfaces, enables collective oscillations of the protons to couple loosely to the collective oscillations of nearby surface plasmon polariton (s'p'p) electrons, commonly found on surfaces of metals
-  see "CA Chatzidimitriou Dreismann, attosecond quantum entanglement in neutron compton scattering from water in the k'ev range"
-  see "JD Jost et'al, entangled mechanical oscillators, nature 459 2009", in which mechanical vibration of two ion pairs separated by a few hundred micrometres, is entangled in a quantum way
-coupling between s'p'p electrons and the patches of protons increases the local electric field to values more than 10e11 volt/meter, roughly the same magnitude as electric fields seen by inner electrons in atomic nuclei
-intense local field raises effective mass of s'p'p electrons, so that they can react spontaneously with nearby protons to create neutrons
-neutrons created collectively have huge quantum mechanical wavelengths (2 nano'meters to microns) and are almost always absorbed locally by nearby nuclei within picoseconds (they generally do not have enough time to thermalize which requires a few tenths of a milli'second)
-heavy'mass s'p'p electrons in condensed matter systems have the unique ability to directly absorb a gamma photon and re'radiate it as a collection of much lower energy infrared and soft x'ray photons, thus providing a form of built'in gamma shielding that preclude external emission of hard radiation in the form of mega e'v gamma rays
+BornOppenheimer is well known to break down on metal surfaces. however the magnitude of BornOppenheimer breakdown may vary widely from one chemical system to another.
+breakdown of BornOppenheimer approximation in the local region in the contiguous patches formed on fully loaded metalic hydride surfaces, enables collective oscillations of the protons to couple loosely to the collective oscillations of nearby surface plasmon polariton (s'p'p) electrons, commonly found on surfaces of metals.
+  see "CA Chatzidimitriou Dreismann, attosecond quantum entanglement in neutron Compton scattering from water in the k'ev range".
+  see "JD Jost et'al, entangled mechanical oscillators, nature 459 2009", in which mechanical vibration of two ion pairs separated by a few hundred micrometers, is entangled in a quantum way.
+coupling between s'p'p electrons and the patches of protons increases the local electric field to values more than 10e11 volt/meter, roughly the same magnitude as electric fields seen by inner electrons in atomic nuclei.
+intense local field raises effective mass of s'p'p electrons, so that they can react spontaneously with nearby protons to create neutrons.
+neutrons created collectively have huge quantum mechanical wavelengths (2 nano'meters to microns) and are almost always absorbed locally by nearby nuclei within picoseconds. (they generally do not have enough time to thermalize which requires a few tenths of a milli'second)
+heavy'mass s'p'p electrons in condensed matter systems have the unique ability to directly absorb a gamma photon and re'radiate it as a collection of much lower energy infrared and soft x'ray photons. thus providing a form of built'in gamma shielding that preclude external emission of hard radiation in the form of mega e'v gamma rays.
 
-while these many'body collective processes operate very rapidly, and nanoscale coherence can only persist for time spans of 1e-15 to 1e-18 sec, nuclear processes such as weak interaction u'l'm neutron production and neutron capture operate on even faster time scales, about 1e-19 to 1e-22 second
+while these many'body collective processes operate very rapidly, and nanoscale coherence can only persist for time spans of 1e-15 to 1e-18 sec, nuclear processes such as weak interaction u'l'm neutron production and neutron capture operate on even faster time scales, about 1e-19 to 1e-22 second.
 
-see these papers by A Widom and L Larsen
+see these papers by A Widom and L Larsen:
   \link("ultra low momentum neutron catalyzed nuclear reactions on metallic hydride surfaces", "http://arxiv.org/pdf/cond-mat/0505026v1.pdf")
   \link("theoretical standard model rates of proton to neutron conversions near metallic hydride surfaces", "http://arxiv.org/pdf/nucl-th/0608059v2.pdf")
   \link("a primer for electroweak induced low energy nuclear reactions", "http://arxiv.org/pdf/0810.0159v1.pdf")
-\link("Widom'Larsen theroy", "http://newenergytimes.com/v2/sr/WL/WLTheory.shtml")
+\link("WidomLarsen theroy", "http://newenergytimes.com/v2/sr/WL/WLTheory.shtml")
 
-= experimental evidence for Widom'Larsen theory
-since 1989, certain researchers in l'e'n'r have documented genuine anomalies that occur in various types experiments, all involving heavily loaded metallic hydrides
+= experimental evidence for WidomLarsen theory
+since 1989, certain researchers in l'e'n'r have documented genuine anomalies that occur in various types experiments, all involving heavily loaded metallic hydrides:
 1, production of a broad array of different stable isotopic transmutation products
 2, different types of nuclear effects triggered by electrical current, laser, r'f, and pressure
 3, calorimetrically measured excess heat effects in wide range of values from just milli'watts to tens of watts in some cases
 4, production of helium isotopes, rarely detect tritium
 5, production of modest fluxes of mega e'v alpha particles and protons, as well as some minuscule fluxes of low energy x and gamma ray photons (no fluxes of hard mega e'v gammas)
 
-simple two'parameter optical model of u'l'm neutron absorption based on Widom'Larsen theory of l'e'n'r, predicts 5 peaks for product isotopic abundance, which matches very well with experimental results
-i think this is the best experimental evidence for Widom'Larsen theory
+simple two'parameter optical model of u'l'm neutron absorption based on WidomLarsen theory of l'e'n'r, predicts 5 peaks for product isotopic abundance, which matches very well with experimental results. i think this is the best experimental evidence for WidomLarsen theory.
 
-mass spectroscopy probably the best analytical technique for diagnosing presence of l'e'n'r, by the early to mid 1990s maverick l'e'n'r researchers, located at a smattering of major universities and national laboratories in Japan, Russia, Italy, and United States, were already doing analyses of experimental l'e'n'r devices, using various types of mass spectroscopy and (mainly at conferences) reporting the appearance of many new elements not initially present at the beginning of experiments, and'or substantial isotopic shifts in stable isotopes of elements initially present that could not reasonably be explained by contamination, and/or the action of prosaic chemical isotopic fractionation processes
-some apostate l'e'n'r researchers using s'i'm's to assay isotopes post'experiment, were even able to spatially correlate elemental or isotopic anomalies, with distinctive morphological features observed on post'experiment metallic device surfaces
-unusual structures found at such locations often consisted of micron'scale craters and other odd morphologies indicative of locally explosive flash melting or boiling events
-  see "George Miley, distinctive 5 peak ni/h2'o transmutation product mass spectrum"
+mass spectroscopy probably the best analytical technique for diagnosing presence of l'e'n'r. by the early to mid 1990s maverick l'e'n'r researchers, located at a smattering of major universities and national laboratories in Japan, Russia, Italy, and United States, were already doing analyses of experimental l'e'n'r devices, using various types of mass spectroscopy and (mainly at conferences) reporting the appearance of many new elements not initially present at the beginning of experiments, and'or substantial isotopic shifts in stable isotopes of elements initially present that could not reasonably be explained by contamination, and/or the action of prosaic chemical isotopic fractionation processes.
+some apostate l'e'n'r researchers using s'i'm's to assay isotopes post'experiment, were even able to spatially correlate elemental or isotopic anomalies, with distinctive morphological features observed on post'experiment metallic device surfaces.
+unusual structures found at such locations often consisted of micron'scale craters and other odd morphologies indicative of locally explosive flash melting or boiling events.
+  see "George Miley, distinctive 5 peak ni/h2'o transmutation product mass spectrum".
 
-why is the Sun's corona so much hotter than the sun's surface, this coronal heating problem is still an unresolved problem of physics, can it be because of low energy nuclear reactions discussed above
+why is the Sun's corona so much hotter than the sun's surface, this coronal heating problem is still an unresolved problem of physics. can it be because of low energy nuclear reactions discussed above.
 
-this theory may be able to explain the strange nuclear reactions observed in exploding wires, lightnings, \link("strong flux of low'energy neutrons produced by thunderstorms", "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.108.125001") and fracturing piezoelectric rocks
+this theory may be able to explain the strange nuclear reactions observed in fracturing piezoelectric rocks, exploding wires and lightnings.
+\link("strong flux of low'energy neutrons produced by thunderstorms", "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.108.125001")
