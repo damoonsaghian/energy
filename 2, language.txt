@@ -1,13 +1,13 @@
 semantic primes, alphabet of human thought, philosophical language
 Toki Pona, Ro artificial language, Ithkuil, Aui constructed language
-\link("Ygyde language", "http://www.ygyde.neostrada.pl/")
-https://en.wikipedia.org/wiki/Attempto_Controlled_English
-https://en.wikipedia.org/wiki/Lojban
-https://en.wikipedia.org/wiki/Agglutinative_language
-https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning
+Ygyde language "http://www.ygyde.neostrada.pl/"
+"https://en.wikipedia.org/wiki/Attempto_Controlled_English"
+"https://en.wikipedia.org/wiki/Lojban"
+"https://en.wikipedia.org/wiki/Agglutinative_language"
+"https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning"
 
 = writing system
-https://en.wikipedia.org/wiki/Phonemic_orthography
+"https://en.wikipedia.org/wiki/Phonemic_orthography"
 phones are the exact atomic speech sounds, phonemes are a set of similar phones.
 phonetic writing systems needs a lot of letters and makes the writing needlessly cumbersome. phonemic systems are enough to make a consistent correspondence between what we say, and what we write.
 phonemic writing system for English, benefits those that are learning it. but for those that have learned it already, the challenge is to get used to the new shape of words, because in fact we read by seeing the shape of words, not by reading single letters.

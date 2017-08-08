@@ -3,7 +3,7 @@ it seems that there is only one source of energy which is inexhaustible, the nuc
 = Sun
 we live because of the Sun, and because we are far enough from it. but this also means that the energy is dispersed on earth and to harness it we need a lot of space.
 concentrated solar power is a good method to do it.
-\image("solar tower.png")
+".data/solar tower.png"
 though instead of heating water in tubes by sunlight we can use the equivalent natural systems:
 1, water cycle which its use is almost saturated
 2, high altitude wind, like Magenn air rotor system
@@ -40,10 +40,10 @@ heavy'mass s'p'p electrons in condensed matter systems have the unique ability t
 while these many'body collective processes operate very rapidly, and nanoscale coherence can only persist for time spans of 1e-15 to 1e-18 sec, nuclear processes such as weak interaction u'l'm neutron production and neutron capture operate on even faster time scales, about 1e-19 to 1e-22 second.
 
 see these papers by A Widom and L Larsen:
-  \link("ultra low momentum neutron catalyzed nuclear reactions on metallic hydride surfaces", "http://arxiv.org/pdf/cond-mat/0505026v1.pdf")
-  \link("theoretical standard model rates of proton to neutron conversions near metallic hydride surfaces", "http://arxiv.org/pdf/nucl-th/0608059v2.pdf")
-  \link("a primer for electroweak induced low energy nuclear reactions", "http://arxiv.org/pdf/0810.0159v1.pdf")
-\link("WidomLarsen theroy", "http://newenergytimes.com/v2/sr/WL/WLTheory.shtml")
+  "ultra low momentum neutron catalyzed nuclear reactions on metallic hydride surfaces" "http://arxiv.org/pdf/cond-mat/0505026v1.pdf"
+  "theoretical standard model rates of proton to neutron conversions near metallic hydride surfaces" "http://arxiv.org/pdf/nucl-th/0608059v2.pdf"
+  "a primer for electroweak induced low energy nuclear reactions" "http://arxiv.org/pdf/0810.0159v1.pdf"
+"WidomLarsen theroy" "http://newenergytimes.com/v2/sr/WL/WLTheory.shtml"
 
 = experimental evidence for WidomLarsen theory
 since 1989, certain researchers in l'e'n'r have documented genuine anomalies that occur in various types experiments, all involving heavily loaded metallic hydrides:
@@ -63,4 +63,4 @@ unusual structures found at such locations often consisted of micron'scale crate
 why is the Sun's corona so much hotter than the sun's surface, this coronal heating problem is still an unresolved problem of physics. can it be because of low energy nuclear reactions discussed above.
 
 this theory may be able to explain the strange nuclear reactions observed in fracturing piezoelectric rocks, exploding wires and lightnings.
-\link("strong flux of low'energy neutrons produced by thunderstorms", "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.108.125001")
+"strong flux of low'energy neutrons produced by thunderstorms" "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.108.125001"
