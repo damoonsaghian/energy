@@ -5,8 +5,8 @@ we live because of the Sun, and because we are far enough from it. but this also
 concentrated solar power is a good method to do it.
 ".data/solar tower.png"
 though instead of heating water in tubes by sunlight we can use the equivalent natural systems:
-  1, water cycle which its use is almost saturated
-  2, high altitude wind, like Magenn air rotor system
+    1, water cycle which its use is almost saturated
+    2, high altitude wind, like Magenn air rotor system
 
 = energy storage
 we can store energy in the electron arrangement of special materials. they are called batteries or fuels, if the released energy is electricity or heat, respectively.
@@ -30,8 +30,8 @@ some have expressed concerns that this theoretical electric field strength estim
 
 BornOppenheimer is well known to break down on metal surfaces. however the magnitude of BornOppenheimer breakdown may vary widely from one chemical system to another.
 breakdown of BornOppenheimer approximation in the local region in the contiguous patches formed on fully loaded metalic hydride surfaces, enables collective oscillations of the protons to couple loosely to the collective oscillations of nearby surface plasmon polariton (s'p'p) electrons, commonly found on surfaces of metals.
-  see "CA Chatzidimitriou Dreismann, attosecond quantum entanglement in neutron Compton scattering from water in the k'ev range".
-  see "JD Jost et'al, entangled mechanical oscillators, nature 459 2009", in which mechanical vibration of two ion pairs separated by a few hundred micrometers, is entangled in a quantum way.
+    see "CA Chatzidimitriou Dreismann, attosecond quantum entanglement in neutron Compton scattering from water in the k'ev range".
+    see "JD Jost et'al, entangled mechanical oscillators, nature 459 2009", in which mechanical vibration of two ion pairs separated by a few hundred micrometers, is entangled in a quantum way.
 coupling between s'p'p electrons and the patches of protons increases the local electric field to values more than 10e11 volt/meter, roughly the same magnitude as electric fields seen by inner electrons in atomic nuclei.
 intense local field raises effective mass of s'p'p electrons, so that they can react spontaneously with nearby protons to create neutrons.
 neutrons created collectively have huge quantum mechanical wavelengths (2 nano'meters to microns) and are almost always absorbed locally by nearby nuclei within picoseconds. (they generally do not have enough time to thermalize which requires a few tenths of a milli'second)
@@ -40,9 +40,9 @@ heavy'mass s'p'p electrons in condensed matter systems have the unique ability t
 while these many'body collective processes operate very rapidly, and nanoscale coherence can only persist for time spans of 1e-15 to 1e-18 sec, nuclear processes such as weak interaction u'l'm neutron production and neutron capture operate on even faster time scales, about 1e-19 to 1e-22 second.
 
 see these papers by A Widom and L Larsen:
-  , "ultra low momentum neutron catalyzed nuclear reactions on metallic hydride surfaces" "http://arxiv.org/pdf/cond-mat/0505026v1.pdf"
-  , "theoretical standard model rates of proton to neutron conversions near metallic hydride surfaces" "http://arxiv.org/pdf/nucl-th/0608059v2.pdf"
-  , "a primer for electroweak induced low energy nuclear reactions" "http://arxiv.org/pdf/0810.0159v1.pdf"
+    , "ultra low momentum neutron catalyzed nuclear reactions on metallic hydride surfaces" "http://arxiv.org/pdf/cond-mat/0505026v1.pdf"
+    , "theoretical standard model rates of proton to neutron conversions near metallic hydride surfaces" "http://arxiv.org/pdf/nucl-th/0608059v2.pdf"
+    , "a primer for electroweak induced low energy nuclear reactions" "http://arxiv.org/pdf/0810.0159v1.pdf"
 "WidomLarsen theory" "http://newenergytimes.com/v2/sr/WL/WLTheory.shtml"
 
 = experimental evidence for WidomLarsen theory
@@ -63,4 +63,5 @@ unusual structures found at such locations often consisted of micron'scale crate
 why is the Sun's corona so much hotter than the sun's surface, this coronal heating problem is still an unresolved problem of physics. can it be because of low energy nuclear reactions discussed above.
 
 this theory may be able to explain the strange nuclear reactions observed in fracturing piezoelectric rocks, exploding wires and lightning.
-"strong flux of low'energy neutrons produced by thunderstorms" "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.108.125001"
+"strong flux of low'energy neutrons produced by thunderstorms"
+    "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.108.125001"
