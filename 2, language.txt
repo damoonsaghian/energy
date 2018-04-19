@@ -15,8 +15,6 @@ f, v, s, z, x (pressure), xx (pleasure), tt (thought), dd (that), t, d, b, p, c 
 n, m, l, r, w, y (yellow), h
 u (fun), a (bad), e, i, o, q (food)
 , use capital letters for special words (words which are not generic).
-, apostrophe is used for abbreviations and for connecting words.
-, period at the end of a sentence which its following sentence is on a new line, and is not indented (ie begins at the first column), is optional.
 , in addition there are numbers and some special symbols.
 , tables, diagrams and drawings can be used to express some ideas in a concise and clear way.
 
