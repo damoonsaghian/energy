@@ -25,9 +25,6 @@ it seems that clean and abundant nuclear energy might be possible, according to 
 we know that offering low momentum neutrons to nuclei of atoms initiates nuclear reactions (generally neutron capture and beta decay) which release energy;
 but how can we generate these neutrons without expending more energy than the process yields; it seems that there maybe a way, thanks to a theory by Allan Widom and Lewis Larsen;
 
-producing neutrons requires a threshold minimum local electric field of at least 2e11 volt/meter; this is a typical nuclear_strength e_field seen by inner electrons in un_ionized atomic nuclei; for example the electric field strength at Bohr radius (about 0.5 angstrom away from an isolated proton) is roughly 5e11 volt/meter;
-some have expressed concerns that this theoretical electric field strength estimate may be unphysical, in it being hard to exceed 2e11 v/m in the real world; such fears are groundless, local electrical fields > 1e11 v/m are readily created on small nano_crevices in materials;
-
 BornOppenheimer is well known to break down on metal surfaces; however the magnitude of BornOppenheimer breakdown may vary widely from one chemical system to another;
 breakdown of BornOppenheimer approximation in the local region in the contiguous patches formed on fully loaded metallic hydride surfaces, enables collective oscillations of the protons to couple loosely to the collective oscillations of nearby surface plasmon polariton (SPP) electrons, commonly found on surfaces of metals;
   see "CA Chatzidimitriou Dreismann, attosecond quantum entanglement in neutron Compton scattering from water in the k_ev range";
