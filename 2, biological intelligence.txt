@@ -26,6 +26,11 @@ each segment must have a mass equal to the segment at the opposite side (i think
 in the end we would have two separated regions, unless of course they form a complete cylinder;
 
 = future society
+in a prosperous society:
+, no one's health is threatened by lack of clean water, healthy food, shelter, sanitation, or medical services;
+, proper education (based on science, without any kind of ideology) is the right of every one;
+, the more one's work benefits society, the more rich one will be (exactly the opposite of what is happening in most places in the world);
+
 society is made of groups with different specialties, each group can elect their leaders;
 election can in fact be a simple, cheap, dynamic, and completely reliable process;
 the only thing we need to completely trust the result of an election, is to release the final result in a table; every one can see if her vote is entered correctly or not; (votes are submitted based on anonymous codes which only its owner knows of its correspondence with his name)
