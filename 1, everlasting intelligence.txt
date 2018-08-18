@@ -1,30 +1,51 @@
-personally i think our natural lifetime is more or less enough for experiencing life as an individual; actually we are not our memories, so why bother making them immortal;
-and considering the horrible things that some mortals have done in human history, maybe mortality of human beings isn't a bad thing, at least until they evolve enough;
-maybe in the future there would be some way to extend human lifetime; or maybe strong artificial intelligence will be possible, in the far far future;
+i think our natural lifetime is more or less enough
+  for experiencing life as an individual;
+besides, we are not our memories, so why bother making them immortal;
+considering the horrible things that some mortals have done in human history,
+  maybe mortality of human beings isn't a bad thing after all,
+  at least until they evolve enough;
+maybe in the future there would be some way to extend human lifetime;
+or maybe strong artificial intelligence will be possible, in the far far future;
 
-important thoughts can always be recorded, and every generation can study it and improve it; we may loose our body and personal memories, but our more important thoughts can live for a long time, as a collective entity called human knowledge;
+important thoughts can always be recorded,
+  and every generation can study it and improve it;
+we may loose our body and personal memories,
+  but our more important thoughts can live for a long time,
+  as a collective entity called human knowledge;
 
 semantic primes, alphabet of human thought, philosophical language;
 Toki Pona, Ro artificial language, Ithkuil, Aui constructed language;
 Ygyde language "http://www.ygyde.neostrada.pl/";
-"https://en.wikipedia.org/wiki/Attempto_Controlled_English"
-"https://en.wikipedia.org/wiki/Lojban"
-"https://en.wikipedia.org/wiki/Agglutinative_language"
-"https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning"
+"https://en.wikipedia.org/wiki/Attempto_Controlled_English";
+"https://en.wikipedia.org/wiki/Lojban";
+"https://en.wikipedia.org/wiki/Agglutinative_language";
+"https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning";
 
 = writing system
-"https://en.wikipedia.org/wiki/Phonemic_orthography"
-phones are the exact atomic speech sounds, phonemes are a set of similar phones;
-phonetic writing systems needs a lot of letters and makes the writing needlessly cumbersome; phonemic systems are enough to make a consistent correspondence between what we say, and what we write;
-phonemic writing system for English, benefits those that are learning it; but for those that have learned it already, the challenge is to get used to the new shape of words, because in fact we read by seeing the shape of words, not by reading single letters;
-f, v, s, z, x (pressure), xx (pleasure), tt (thought), dd (that), t, d, b, p, c (charge), j, k, g (get);
-n, m, l, r, w, y (yellow), h;
-u (fun), a (bad), e, i, o, q (food)
+"https://en.wikipedia.org/wiki/Phonemic_orthography";
+, phones are the exact atomic speech sounds;
+, phonemes are a set of similar phones;
+phonetic writing systems needs a lot of letters
+  and makes the writing needlessly cumbersome;
+phonemic systems are enough to make a consistent correspondence
+  between what we say, and what we write;
+phonemic writing system for English, benefits those that are learning it;
+but for those that have learned it already,
+  the challenge is to get used to the new shape of words,
+  because in fact we read by seeing the shape of words, not by reading single letters;
+
+, f, v, s, z, x (pressure), xx (pleasure);
+, tt (thought), dd (that), t, d, b, p, c (charge), j, k, g (get);
+, n, m, l, r, w, y (yellow), h;
+, u (fun), a (bad), e, i, o, q (food);
 , use capital letters for special words (words which are not generic);
 , in addition there are numbers and some special symbols;
-, tables, diagrams and drawings can be used to express some ideas in a concise and clear way;
+, tables, diagrams and drawings can help to add clarity to text;
 
 try to read the following text:
-kempiqterz kan help pipel tq izili akses and imprqv hiqmen nulej and az e rizult dq ttingz tq imprqv dde kquleti uv hiqmen luyf;
+kempiqterz kan help pipel tq izili akses and imprqv hiqmen nulej
+  and az e rizult dq ttingz tq imprqv dde kquleti uv hiqmen luyf;
 ddis iz wut ejekeyxen iz ol ebawt, or at list it must bi;
-cildren kan lern simpel skilz, yqzfel in evridey luyf; adlesents kan lern mor advansd skilz, yqsfel for kenstrukting and diveleping advansd teknulejiz;
+cildren kan lern simpel skilz, yqzfel in evridey luyf;
+adlesents kan lern mor advansd skilz,
+  yqsfel for kenstrukting and diveleping advansd teknulejiz;
