@@ -42,22 +42,21 @@ anyway, it would be great if we could harness nuclear energy directly and safely
 = WidomLarsen theory
 it seems that clean and abundant nuclear energy might be possible,
   according to WidomLarsen theory;
-we know that offering low momentum neutrons to nuclei of atoms
+we know that offering low momentum neutrons to nuclei (lighter than iron)
   initiates nuclear reactions (generally neutron capture and beta decay)
-  which release energy;
-but how can we generate these neutrons
-  without expending more energy than the process yields;
-it seems that there maybe a way, thanks to a theory by Allan Widom and Lewis Larsen;
+  which releases energy;
+but how can we generate these neutrons without expending more energy than the process yields;
+it seems that there may be a way, thanks to a theory by Allan Widom and Lewis Larsen;
 
-BornOppenheimer approximation is well known to break down on metal surfaces;
+BornOppenheimer approximation is known to break down on metal surfaces;
   however the magnitude of BornOppenheimer breakdown may vary widely
     from one chemical system to another;
-breakdown of BornOppenheimer approximation in the local region
+breakdown of BornOppenheimer approximation
   in the contiguous patches formed on fully loaded metallic hydride surfaces,
   enables collective oscillations of the protons to couple loosely
-    to the collective oscillations of nearby surface plasmon polariton (SPP) electrons,
+  to the collective oscillations of nearby surface plasmon polariton (SPP) electrons,
     commonly found on surfaces of metals;
-see "CA Chatzidimitriou Dreismann, attosecond quantum entanglement
+see "CA Chatzidimitriou Dreismann, atto_second quantum entanglement
   in neutron Compton scattering from water in the k_eV range";
 see "JD Jost et_al, entangled mechanical oscillators, nature 459 2009",
   in which mechanical vibration of two ion pairs separated by a few hundred micrometers,
@@ -74,16 +73,15 @@ neutrons created collectively
   and are almost always absorbed locally by nearby nuclei within picoseconds;
   (they generally do not have enough time to thermalize
     which requires a few tenths of a milli_second)
-heavy_mass SPP electrons in condensed matter systems
-  have the unique ability to directly absorb a gamma photon
-  and re_radiate it as a collection of much lower energy infrared and soft x_ray photons,
-  thus providing a form of built_in gamma shielding
-    that preclude external emission of hard radiation in the form of mega_eV gamma rays;
-
 while these many_body collective processes operate very rapidly,
   and nano_scale coherence can only persist for time spans of 1e-15 to 1e-18 sec,
   nuclear processes such as weak interaction ULM neutron production and neutron capture
     operate on even faster time scales, about 1e-19 to 1e-22 second;
+
+heavy_mass SPP electrons in condensed matter systems
+  have the unique ability to directly absorb a gamma photon
+  and re_radiate it as a collection of much lower energy infrared and soft x_ray photons,
+  thus providing a form of built_in gamma shielding;
 
 see these papers by A Widom and L Larsen:
 , "ultra low momentum neutron catalyzed nuclear reactions on metallic hydride surfaces"
