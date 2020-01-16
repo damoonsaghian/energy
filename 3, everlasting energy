@@ -7,7 +7,7 @@ we live because of the Sun, and because we are far enough from it;
 but this also means that the energy is dispersed on earth
   and to harness it we need a lot of space;
 solar power tower is a good method to do it;
-".data/solar tower.png"
+".data/solar-tower.png"
 
 additionally we can use natural cyclic systems powered by the Sun:
 , water cycle, which its use is almost saturated;
@@ -18,7 +18,7 @@ we can store energy in the electron arrangement of special materials;
 they are called batteries or fuels, if the released energy is electricity or heat, respectively;
 
 flow battery, regenerative fuel cell;
-with the help of super'capacitors we can reduce charge time, and implement regenerative braking;
+with the help of super-capacitors we can reduce charge time, and implement regenerative braking;
 
 fossil fuels are how nature does this; they have very good energy densities, but
   burning them pollutes air, and their natural resources will eventually expire;
@@ -32,7 +32,7 @@ so we need to harness nuclear energy directly;
 currently the most common way to harness nuclear energy is by
   splitting a heavy nucleus apart (a process called fission),
   which in addition to not being an abundant energy source,
-  is in general a very dirty process, producing high'level nuclear waste;
+  is in general a very dirty process, producing high-level nuclear waste;
 though maybe new generation reactors can solve these problems (partially at least);
 
 fusion:
