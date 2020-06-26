@@ -27,12 +27,12 @@ our basic biological needs are:
   4, carbohydrates: Glucose (555.0 g), Glucono D_Lactone (17.2 g);
   5, fats and fat soluble vitamins: Ethyl linoleate (2.0 g) A_Tocopherol acetate (57.29 mg),
     vitamin A (3.64 mg) Menadione (4.58 mg) vitamin D (0.057 mg)
-  6, maybe other things like fiber which are not really nutrient,
+  6, maybe other things like fiber which are not nutrients,
     but are good for digestive system;
 
 naturally the environment we evolved in, supplies our basic needs,
   but it is generally unstable, slow and insufficient
-    (considering the current population and standards of life);
+  (considering the current population and standards of life);
 thus we have to build machines which can do it faster and in larger amounts;
 
 = future society
@@ -57,7 +57,7 @@ this method is so simple and cheap that can be easily done in short periods
   (every month or every 3 months);
 actually people can vote any time they want, the result table will be updated continuously;
   but the election will be made in discrete periods;
-now compare this simple method with what is called democracy nowadays;
+now compare this simple method with what we call democracy nowadays;
 actually this is a clear example that shows us
   how the ones in power play with people, and treat them like fools;
 

@@ -38,7 +38,11 @@ though maybe new generation reactors can solve these problems (partially at leas
 fusion:
 "https://en.wikipedia.org/wiki/Fusion_power"
 "https://en.wikipedia.org/wiki/Magnetized_Liner_Inertial_Fusion"
-"https://en.wikipedia.org/wiki/Field-reversed_configuration"
-"https://fusionenergy.lanl.gov/Documents/MTF/seab-siemon%20april%2099.pdf"
 "https://en.wikipedia.org/wiki/Plasma-facing_material"
   "https://en.wikipedia.org/wiki/Neutron_radiation#Health_hazards_and_protection"
+
+i can't understand what's wrong with the following:
+suppose we have a long container which holds dense hydrogen;
+we hit it by a beam of 1Mev electrons, from one end;
+when an electron collides with a proton, this can produce a neutron;
+neutron capture by other nuclie releases about 2Mev energy;
