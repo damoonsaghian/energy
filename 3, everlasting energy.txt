@@ -40,9 +40,3 @@ fusion:
 "https://en.wikipedia.org/wiki/Magnetized_Liner_Inertial_Fusion"
 "https://en.wikipedia.org/wiki/Plasma-facing_material"
   "https://en.wikipedia.org/wiki/Neutron_radiation#Health_hazards_and_protection"
-
-i can't understand what's wrong with the following:
-suppose we have a long container which holds dense hydrogen;
-we hit it by a beam of 1Mev electrons, from one end;
-when an electron collides with a proton, this can produce a neutron;
-neutron capture by other nuclie releases about 2Mev energy;
