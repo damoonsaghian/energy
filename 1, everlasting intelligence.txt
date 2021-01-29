@@ -6,10 +6,8 @@ considering the horrible things that some mortals have done in human history,
 maybe in the future there would be some way to extend human lifetime;
 also there is the possibility of strong artificial intelligence;
 
-regardless, important thoughts can always be recorded,
-  and every generation can study it and improve it;
-we may loose our body and personal memories,
-  but our more important thoughts can live for a long time,
+regardless, important thoughts can always be recorded, and every generation can study it and improve it;
+we may loose our body and personal memories, but our more important thoughts can live for a long time,
   as a collective entity called human knowledge;
 
 = language
@@ -27,15 +25,14 @@ Ygyde language "http://www.ygyde.neostrada.pl/";
 phonetic writing systems needs lots of letters, and makes writing needlessly cumbersome;
 phonemic systems are enough to make a consistent correspondence between speaking and writing;
 phonemic writing system for English, benefits those that are learning it;
-but for those that have learned it already, the challenge is to get used to
-  the new shapes of words, because in fact we read by seeing the shape of words,
-  not by reading single letters;
+but for those that have learned it already, the challenge is to get used to the new shapes of words,
+  because in fact we read by seeing the shape of words, not by reading single letters;
 
 , f, v, s, z, x (pressure), xx (pleasure);
 , tt (thought), dd (that), t, d, b, p, c (charge), j, k, g (get);
 , n, m, l, r, w, y (yellow), h;
 , u (fun), a (bad), e, i, o, q (food);
-, use capital letters for special words (words which are not generic);
+, use capital letters for special (non_generic) words;
 , in addition there are numbers and some special symbols;
 , tables, diagrams and drawings can help to add clarity to the text;
 
@@ -44,5 +41,4 @@ kempiqterz kan help pipel tq izili akses and imprqv hiqmen nulej
   and az e rizult dq ttingz tq imprqv dde kquleti uv hiqmen luyf;
 ddis iz wut ejekeyxen iz ol ebawt, or at list it must bi;
 cildren kan lern simpel skilz, yqzfel in evridey luyf;
-adlesents kan lern mor advansd skilz,
-  yqsfel for kenstrukting and diveleping advansd teknuleji;
+adlesents kan lern mor advansd skilz, yqsfel for kenstrukting and diveleping advansd teknuleji;
