@@ -11,27 +11,24 @@ we may loose our body and personal memories, but our more important thoughts can
   as a collective entity called human knowledge;
 
 oligosynthetic philosophical language;
-"https://babel.hathitrust.org/cgi/pt?id=chi.086568442&view=1up&seq=3"
-"http://linguasistemfrater.mozello.com/"
+Ro philosophical language: "https://babel.hathitrust.org/cgi/pt?id=chi.086568442&view=1up&seq=3"
 "http://www.ygyde.neostrada.pl/"
+"http://linguasistemfrater.mozello.com/"
 
-root words are made of one or more consonants: (c=ch, x=sh)
+words are made of two or more consonants: (c=ch, x=sh)
 , p, b, f, v,    m;
 , t, d, s, z, l, n, r;
 , c, j, x,    y;
 , k, g, h;
-to pronounce a word we use vowels in between consonants, such that the word has easy pronunciation;
-  a (car), aa (bad), e, ee (seed), o, oo;
-vowels are generally not written, except:
-, "a" and "e" in the first syllable to indicate verbs or adjectives;
-, to teach pronunciation, or when the pronunciation is ambiguous, eg for names of people
-  (in which case it's better for the letters to have grayed out color);
+between any two consonant in a word, there is a vowel;
+the default vowel is "o" as in "cold", which is not written, others are:
+  o (god), a (bad), e, i, u (rule);
+the fact that words end in a consonant, and that there is a vowel, between any two consonant in a word,
+  makes word boundaries clear, even when speaking fast;
 
 subject + verb + adverb + object;
-the fact that words are made of consonants with vowels in between,
-  makes word boundaries clear, even when speaking fast;
 the vowel of the first syllable determines the part of speech:
-, "o" or "oo": nouns, prepositions and function words;
-, "a" or "aa": verbs;
-, "e" or "ee"adjectives and adverbs;
-names which are written with initial capital letter, are pronounced with initial "o";
+, default vowel or "u": nouns, prepositions and function words;
+, "o" or "a": verbs;
+, "e" or "i": adjectives and adverbs;
+proper names are written with an initial capital letter, and are pronounced with an initial default vowel;
