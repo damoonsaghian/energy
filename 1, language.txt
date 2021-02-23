@@ -12,23 +12,23 @@ we may loose our body and personal memories, but our more important thoughts can
 
 oligosynthetic philosophical language;
 Ro philosophical language: "https://babel.hathitrust.org/cgi/pt?id=chi.086568442&view=1up&seq=3"
-"http://www.ygyde.neostrada.pl/"
 "http://linguasistemfrater.mozello.com/"
+"http://www.ygyde.neostrada.pl/"
 
-words are made of two or more consonants: (c=ch, x=sh)
+consonants: (c=ch, x=sh)
 , p, b, f, v,    m;
 , t, d, s, z, l, n, r;
 , c, j, x,    y;
 , k, g, h;
-between any two consonant in a word, there is a vowel;
-the default vowel is "o" as in "cold", which is not written, others are:
-  o (god), a (bad), e, i, u (rule);
-the fact that words end in a consonant, and that there is a vowel, between any two consonant in a word,
-  makes word boundaries clear, even when speaking fast;
+vowels: a , e, i, o, u (rule);
+"a" can be pronounced as in "car" or in "bad", any one which is easier to pronounce in the particular word;
+"aa" can be used to explicitly write the second pronunciation;
+words begin and end in a vowel, this makes word boundaries clear, even when speaking fast;
 
 subject + verb + adverb + object;
-the vowel of the first syllable determines the part of speech:
-, default vowel or "u": nouns, prepositions and function words;
-, "o" or "a": verbs;
-, "e" or "i": adjectives and adverbs;
-proper names are written with an initial capital letter, and are pronounced with an initial default vowel;
+the initial vowel of a word determines its part of speech:
+, "o": nouns, prepositions and function words;
+, "u": proper nouns;
+, "a": verbs;
+, "e": adjectives and adverbs;
+, "i": numbers;
