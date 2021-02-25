@@ -10,15 +10,14 @@ regardless, important thoughts can always be recorded, and every generation can 
 we may loose our body and personal memories, but our more important thoughts can live for a long time,
   as a collective entity called human knowledge;
 
-philosophical taxonomic language;
-words begin and end in a vowel, this makes word boundaries clear, even when speaking fast;
-the initial vowel of a word determines its part of speech in the sentence;
+taxonomic language;
+Ro philosophical language: "https://babel.hathitrust.org/cgi/pt?id=chi.086568442&view=1up&seq=3"
 the first consonant of a word indicates the most general concept group, the word belongs to;
 the subsequent letters are enumerated, to produce the derived words,
   in a way that different words are distinguishable even in noisy environment;
-Ro philosophical language: "https://babel.hathitrust.org/cgi/pt?id=chi.086568442&view=1up&seq=3"
-"http://www.ygyde.neostrada.pl/"
-"http://linguasistemfrater.mozello.com/"
+the initial vowel of a word determines its part of speech in the sentence;
+words begin and end in a vowel, this makes word boundaries clear, even when speaking fast;
+compound words are made by gluing derived words (without initial and final vowels) together;
 
 consonants: (c=ch, x=sh)
 , p, b, f, v,    m;
@@ -29,6 +28,9 @@ vowels: a , e, i, o, u (rule);
 "a" is usually pronounced as in "car", but alternatively it can be pronounced as in "bad", if it's easier;
 "aa" can be used to explicitly write the alternative pronunciation;
 
+"https://www.oocities.org/handydad/elomi/elomi-sentence.html"
+"http://www.ygyde.neostrada.pl/ygydeg.htm"
+"http://linguasistemfrater.mozello.com/"
 subject + verb + adverb + object;
 the initial vowel of a word determines its part of speech:
 , "o": nouns;
