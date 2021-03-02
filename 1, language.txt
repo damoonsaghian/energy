@@ -28,12 +28,38 @@ vowels: a , e, i, o, u (rule);
 "a" is usually pronounced as in "car", but alternatively it can be pronounced as in "bad", if it's easier;
 "aa" can be used to explicitly write the alternative pronunciation;
 
-"https://www.oocities.org/handydad/elomi/elomi-sentence.html"
 "http://www.ygyde.neostrada.pl/ygydeg.htm"
+"https://www.oocities.org/handydad/elomi/elomi-sentence.html"
 "http://linguasistemfrater.mozello.com/"
+"http://attempto.ifi.uzh.ch/site/courses/files/bonn2008.pdf"
+"https://en.wikipedia.org/wiki/Clause"
+"https://en.wikipedia.org/wiki/Pronoun"
+"https://en.wikipedia.org/wiki/Preposition_and_postposition"
+"https://en.wikipedia.org/wiki/Conjunction_(grammar)#Subordinating_conjunctions"
+
+prepositions are like additional arguments for a verb (ie other than the direct object):
+  in, on. o, under, towards, before, of, for
+verbs are timeless; time is indicated using propositional phrases;
+
+conjunctions (or, and, if, then, but, however) connect:
+, words or phrases;
+, dependent clauses;
+, sentences;
+
 subject + verb + adverb + object;
 the initial vowel of a word determines its part of speech:
 , "o": nouns;
 , "u": proper nouns;
 , "a": verbs;
 , "e" or "i": adjectives and adverbs;
+
+multiple modifiers (adjectives or adverbs) can apply to the same noun or verb,
+  if they are separated by a conjunction, usually "and";
+when one modifier immediately follows another of the same type, it modifies the former;
+  the two together then cumulatively modify the noun or verb headword;
+cardinal and ordinal number of a noun is treated as adjectives;
+to make gerund from a verb, just replace initial "a" with "o";
+to make passive voice from a verb, replace initial "a" with "e" or "i";
+
+a numbers is one word which begins with the consonant+vowel representing the multiplicity concept,
+  followed by consonant+vowels representing the digits, separated with thousand, million ...;
