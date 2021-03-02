@@ -19,6 +19,9 @@ the initial vowel of a word determines its part of speech in the sentence;
 words begin and end in a vowel, this makes word boundaries clear, even when speaking fast;
 compound words are made by gluing derived words (without initial and final vowels) together;
 
+basic concepts:
+group, part, truth, negation, numbers, space, time, matter (organic and inorganic), radiation, motion (change);
+
 consonants: (c=ch, x=sh)
 , p, b, f, v,    m;
 , t, d, s, z, l, n, r;
@@ -60,6 +63,14 @@ when one modifier immediately follows another of the same type, it modifies the 
 cardinal and ordinal number of a noun is treated as adjectives;
 to make gerund from a verb, just replace initial "a" with "o";
 to make passive voice from a verb, replace initial "a" with "e" or "i";
+
+a sequence of nouns must be separated with commas or conjunctions;
+noun + noun:
+, possession;
+, if the first noun is a gerund, the second noun is its object;
+
+there are 6 pronouns;
+interrogative pronouns: who, what, when, where, why, how;
 
 a numbers is one word which begins with the consonant+vowel representing the multiplicity concept,
   followed by consonant+vowels representing the digits, separated with thousand, million ...;
