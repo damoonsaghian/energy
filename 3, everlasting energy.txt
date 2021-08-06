@@ -29,7 +29,7 @@ so we need to harness nuclear energy directly;
 currently the most common way to harness nuclear energy is by
   splitting a heavy nucleus apart (a process called fission),
   which in addition to not being an abundant energy source,
-  is in general a very dirty process, producing high_level nuclear waste;
+  is in general a very dirty process, producing high'level nuclear waste;
 though maybe new generation reactors can solve these problems (partially at least);
 
 fusion:
