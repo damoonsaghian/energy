@@ -24,6 +24,9 @@ our basic biological needs are:
     Ethyl linoleate (2.0 g) A'Tocopherol acetate (57.29 mg)
   6, maybe other things like fiber, which are not nutrients, but are good for digestive system
 
+"https://en.wikipedia.org/wiki/Soylent_(meal_replacement)"
+"https://en.wikipedia.org/wiki/Huel"
+
 naturally the environment we evolved in, supplies our basic needs
 but in general, it's unstable, slow and insufficient (considering the current population and standards of life)
 thus we have to build machines which can do it faster and in larger amounts
