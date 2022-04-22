@@ -15,7 +15,7 @@ additionally we can use natural cyclic systems powered by the Sun:
 we can store energy in the electron arrangement of special materials
 they are called batteries or fuels, if the released energy is electricity or heat, respectively
 
-"https://en.wikipedia.org/wiki/Fuel_cell"
+"https://en.wikipedia.org/wiki/Flow_battery"
 
 fossil fuels are how nature stores energy, they have very good energy densities,
   but burning them pollutes air, and their natural resources will eventually expire
