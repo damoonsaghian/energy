@@ -16,8 +16,7 @@ during boot, the integrated GPU is used, to prevent any vulnerability due to the
 
 in conventional digital circuits when the inputs change, the outputs can have temporary invalid values,
 	until they stabilize to the valid values
-but for the circuit to do its job, gates with memory (registers),
-	must operate only when the inputs have correct values
+but for the circuit to do its job, gates with memory (registers), must operate only when the inputs have correct values
 one solution is to synchronize registers with a global clock signal
 	the period of clock signal is made long enough for the circuit to become stable
 
@@ -65,10 +64,11 @@ in addition, there is no easy way to get rid of the TEE part, ie Intel ME (or AM
 	"https://puri.sm/posts/deep-dive-into-intel-me-disablement/"
 
 ARM architecture is closed source too, but some vendors (eg Rockchip) use an open source boot firmware (EDK2)
-there is even an open source implementation of ARM TrustZone: "https://www.trustedfirmware.org/projects/op-tee/"
+there is even an open source implementation of ARM TrustZone:
+	"https://www.trustedfirmware.org/projects/op-tee/"
 GPU with open source driver: Qualcomm/Adreno
 
-open source CPU: RISC-V, Power ISA
+RISC-V is an open source CPU architecture;
 
 programs usually do not run directly on computer hardware
 instead they run on a more sophisticated software machine (a virtual machine) called the kernel

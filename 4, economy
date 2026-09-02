@@ -1,14 +1,14 @@
 in decentralized transaction systems, we have a P2P network where all nodes store the same ledger,
 	which can be extended based on permissionless consensus between nodes
-distributed ledgers are authenticated by mass collaboration powered by collective self'interests
+distributed ledgers are authenticated by mass collaboration, powered by collective self'interests
 appropriate incentives that will continue to encourage honest participation in the network,
 	is a key component of the consensus protocol
 anyone can participate in consensus,
 	though one’s voting power is typically proportional to its possession of network resources,
 	such as computation power, token wealth, storage space, etc
-see "a survey of distributed consensus protocols for blockchain networks"
+see "a survey of distributed consensus protocols for blockchain networks":
 	"https://arxiv.org/pdf/1904.04098.pdf"
-https://minepi.com/white-paper/
+"https://minepi.com/white-paper/"
 
 so in decentralized transaction systems:
 , every full node has a copy of the ledger (an always growing database)
@@ -23,7 +23,7 @@ so in decentralized transaction systems:
 
 decentralized internet is already implemented by GNUnet, but no one is talking about it
 compare it with the hype around decentralized transaction systems, aka blockchains or distributed ledgers,
-	which are inefficient and do not scale
+	which are inefficient and do not scale;
 
 it's clear that the motivation behind blockchains is not to replace the current corrupted monetary system,
 	because it's just not capable to do that, by design
@@ -83,7 +83,7 @@ each person has:
 , one identity key for signing with her real identity
 , multiple semi'anonymous keys whose correspondance with the identity key is only known by IO nodes
 
-transaction request:
+transaction request
 , timestamp
 , list of provided tokens (plus a request for changes if needed)
 , list of requested asset tokens, or the value requested in exchange, or a contract
