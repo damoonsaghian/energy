@@ -11,6 +11,8 @@ the hub provides:
 , compatibility ports for older devices: ethernet, audio jack, DP and HDMI
 to act as a smart'phone it also has battery, integrated GPU, a small display, camera, speaker, microphone, WiFi and cell
 during boot, the integrated GPU is used, to prevent any vulnerability due to the OptionROM of external GPU
+when the device is docked a lid switch signal will be sent to the operating system
+	just like when a laptop's screen is closed
 
 = digital circuits
 
